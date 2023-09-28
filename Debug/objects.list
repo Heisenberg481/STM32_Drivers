@@ -1,0 +1,6 @@
+"./Src/002ButtonInterrupt.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f030r8tx.o"
+"./drivers/Src/stm32f0308_gpio_driver.o"
+"./drivers/Src/stm32f0308_spi_driver.o"
